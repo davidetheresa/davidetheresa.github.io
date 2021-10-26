@@ -6,4 +6,4 @@ collection: location
 entries_layout: grid
 ---
 
-Info on venue
+Info on venues
