@@ -2,7 +2,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "DavidETheresa"
-description: "Wedding website"
+description: "We're happy that you're going to spend this day with us."
 url: "https://davidetheresa.github.io"
 logo: "/assets/images/logo.jpg"
 
@@ -37,9 +37,20 @@ collections:
 defaults:
   # Info page defaults
   - scope:
-      path: "_info"
-      type: info
+      path: "_accomodation"
+      type: accomodation
     values:
       layout: post
-      comments: true
-      share: true
+
+  - scope:
+      path: "_travel"
+      type: travel
+    values:
+      layout: post
+
+  - scope:
+      path: "_location"
+      type: location
+    values:
+        layout: post
+

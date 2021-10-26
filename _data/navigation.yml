@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Info
-  url: /info/
+- title: Accomodation
+  url: /accomodation/
+
+-title: Travel
+  url: /travel/
+
+-title: Location
+  url: /location/
