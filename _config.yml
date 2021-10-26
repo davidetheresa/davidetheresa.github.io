@@ -28,7 +28,7 @@ plugins:
 
 # Collections
 collections:
-  recipes:
+  info:
     output: true
     permalink: /:collection/:path/
 
