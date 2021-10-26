@@ -28,7 +28,15 @@ plugins:
 
 # Collections
 collections:
-  info:
+  location:
+    output: true
+    permalink: /:collection/:path/
+
+  accomodation:
+    output: true
+    permalink: /:collection/:path/
+
+  travel:
     output: true
     permalink: /:collection/:path/
 
