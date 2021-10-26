@@ -1,0 +1,15 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Theresa Stadler:
+  name: Theresa Stadler
+  picture: /assets/images/theresa.JPG
+  twitter: "@ths_stadler"
+  links:
+    - title: Twitter
+      url: https://twitter.com/ths_stadler
+      icon: fab fa-twitter-square
+
+Davide Piasentin:
+  name: Davide Piasentin
+  picture: /assets/images/davide.JPG
