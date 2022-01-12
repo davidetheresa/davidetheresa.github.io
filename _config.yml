@@ -62,3 +62,9 @@ defaults:
     values:
         layout: post
 
+  - scope:
+      path: _rsvp
+      type: rsvp
+    values:
+      layout: post
+
