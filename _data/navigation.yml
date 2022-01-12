@@ -1,10 +1,12 @@
 # Site navigation links
+- title: Reception - Réception - Feier
+  url: /location/
 
-- title: Accomodation
+- title: Accomodation - Logement - Unterkunft
   url: /accomodation/
 
-- title: Travel
+- title: Travel - Voyage - Anreise
   url: /travel/
 
-- title: Location
-  url: /location/
+- title: RSVP
+  url: /rsvp/

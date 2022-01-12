@@ -2,7 +2,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "DavidETheresa"
-description: "We're happy that you're going to spend this day with us."
+description: "We're getting married! Nous nous marions! Wir heiraten!"
 url: "https://davidetheresa.github.io"
 logo: "/assets/images/logo.jpg"
 
@@ -16,15 +16,15 @@ google_fonts:
 markdown: kramdown
 
 # Pagination
-paginate: 10
-paginate_path: /page:num/
+#paginate: 10
+#paginate_path: /page:num/
 
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
+#  - jekyll-paginate
 
 # Collections
 collections:

@@ -1,0 +1,25 @@
+---
+layout: page
+---
+
+<main id="main" class="main-content" aria-label="Content">
+    <article>
+        {% include page-image.html %}
+        <div class="page-wrapper">
+            <header class="page-header">
+                {% if page.id %}
+                {% assign title = page.title | markdownify | strip_html %}
+                {% else %}
+                {% assign title = page.title %}
+                {% endif %}
+            </header>
+
+            <div class="page-content">
+                <center>
+                {{ content }}
+                </center>
+            </div>
+        </div>
+    </article>
+</main>
+
