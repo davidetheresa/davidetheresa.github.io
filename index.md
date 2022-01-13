@@ -5,15 +5,20 @@ title: "23 July - Juillet - Juli 2022"
 
 ### Toury-sur-Jour, Nièvre, France
 
+[RSVP](rsvp.md){: .btn .btn--info}
+
 We're getting married and hope that you will share this moment with us.
 We have put together this site to help you organise your trip, your accomodation, and so you can find a way to contact us if you have any questions.
+We will keep this page updated as we, step-by-step, move closer to the day. 
 
 -
 
 Wir heiraten und hoffen, dass du das zusammen mit uns feiern wirst.
 Auf dieser Seite kannst du hoffentlich alle Informationen zu Unterkunft, Anreise, und dem Programm für den Tag, sowie unsere Kontaktdaten finden.
+Wir werden mehr und mehr Infos hinzufügen. Im Moment sind viele Dinge auch für uns noch ein großes Fragezeichen.
 
 ## RSVP
+
 Important for us: Please let us know, as soon as possible, whether you're going to make it on 23rd July 2022 and spend the day with us. You can simply do that by filling out [this form](rsvp.md)
 
 -
