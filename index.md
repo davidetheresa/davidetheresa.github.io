@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "23 July - Juillet - Juli 2022"
+title: "Davide & Theresa"
 ---
-
+# 23 July - Juillet - Juli 2022
 ### Toury-sur-Jour, Nièvre, France
 
 [RSVP](rsvp.md){: .btn .btn--info}
