@@ -1,7 +1,7 @@
 ---
-title: Accomodation - Logement - Unterkunft
+title: Accommodation - Logement - Unterkunft
 layout: collection
-permalink: /accomodation/
+permalink: /accommodation/
 collection: accomodation
 entries_layout: grid
 show_excerpt: False
