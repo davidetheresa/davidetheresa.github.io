@@ -21,3 +21,10 @@ Nach Nevers, gibt es Direktverbindungen von Paris und Dijon aus. Der Bahnhof ist
 Das heißt, ihr könnt entweder ein Auto von einer der beiden Autovermietungen direkt neben der Zugstation, [Europcar](https://www.europcar.ch/en-ch/stations/france/nevers) und [Avis](https://www.avis.fr/services-avis/location-voiture/europe/france/nevers/gare-de-nevers), mieten oder bei uns nachfragen ob es vielleicht jemanden gibt der euch abholen kann.
 
 [Tickets gibt es z.B. auf Trainline](https://www.thetrainline.com/){: .btn .btn--info}
+
+--
+# Gare de Nevers
+
+La gare la plus proche du Domaine de Toury est celle de [Nevers, FR](https://goo.gl/maps/db4EEjchvTtqYjNK8).
+Il vous restera ensuite 30 min de voiture jusqu'au Domaine. Il existe deux loueurs de voitures directement dans la gare , [Europcar](https://www.europcar.ch/en-ch/stations/france/nevers) and [Avis](https://www.avis.fr/services-avis/location-voiture/europe/france/nevers/gare-de-nevers).
+N'hésitez pas à nous contacter si vous cherchez à faire du covoiturage et nous chercherons à vous mettre en contact avec d'autres invités.

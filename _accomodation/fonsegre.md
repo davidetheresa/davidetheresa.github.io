@@ -18,3 +18,9 @@ Driving Distance to Domaine de Toury: 24 minutes
 Unterkunft: Gastzimmer
 
 Fahrtzeit zur Domaine de Toury: 24 Minuten
+
+--
+
+Chambres d'hôtes et Gîtes
+
+Distance du Domaine de Toury: 24 minutes en voiture

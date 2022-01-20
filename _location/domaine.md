@@ -18,3 +18,8 @@ Here we will have a small ceremony followed by a reception and a seated dinner.
 
 Wir haben diesen wunderschönen Ort in der Region Nevers in Frankreich gefunden, um unsere Hochzeit zu feiern.
 Hier werden wir eine kleine Zeremonie abhalten, gefolgt von einem Sektempfang und einem  Abendessen.
+
+--
+
+Nous avons trouvé ce magnifique endroit dans la Nièvres pour célébrer notre mariage.
+Nous aurons une cérémonie dans le jardin suivi d'un cocktail puis d'un dîner assis.
