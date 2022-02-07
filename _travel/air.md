@@ -4,6 +4,7 @@ image:
     path: /assets/images/plane.jpg
     thumbnail: /assets/images/plane.jpg
 ---
+
 # Direction Lyon
 
 The nearest airport is Lyon. From there it is a two hours drive to the [Domaine de Toury](_location/domaine.md).

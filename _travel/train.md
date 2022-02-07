@@ -4,6 +4,7 @@ image:
     path: /assets/images/train.jpg
     thumbnail: /assets/images/train.jpg
 ---
+
 # Direction Nevers
 
 If you are travelling by train look for connections to [Nevers, FR](https://goo.gl/maps/db4EEjchvTtqYjNK8).
@@ -14,6 +15,7 @@ Otherwise, please also don't hesitate to get in touch with us so we can check wi
 [Check for tickets on Trainline](https://www.thetrainline.com/){: .btn .btn--info}
 
 --
+
 # Nach Nevers
 
 Falls ihr plant mit dem Zug anzureisen, sucht am Besten nach Verbindungen nach [Nevers, FR](https://goo.gl/maps/db4EEjchvTtqYjNK8).
@@ -23,6 +25,7 @@ Das heißt, ihr könnt entweder ein Auto von einer der beiden Autovermietungen d
 [Tickets gibt es z.B. auf Trainline](https://www.thetrainline.com/){: .btn .btn--info}
 
 --
+
 # Gare de Nevers
 
 La gare la plus proche du Domaine de Toury est celle de [Nevers, FR](https://goo.gl/maps/db4EEjchvTtqYjNK8).
