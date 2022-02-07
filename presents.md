@@ -9,6 +9,8 @@ We are of course also open to you bringing a puppy to France that we are then go
 
 [Wedding list](https://davidetheresa.zankyou.com/uk/wedding-list/wedding-list){: .btn .btn--info}
 
+Password: DavidETheresa230722
+
 ---
 
 Sujet difficile: les cadeaux! Si vous souhaitez nous offrire un cadeau, nous avons fait une petite liste de chose qui nous ferait plaisir.
@@ -16,12 +18,16 @@ Theresa serait bien entendu ravie que vous nous offriez un chiot à ramener en S
 
 [Liste de mariage](https://davidetheresa.zankyou.com/fr/liste-de-mariage/liste-mariage){: .btn .btn--info}
 
+Mot de passe: DavidETheresa230722
+
 ---
 
 Schwieriges Thema: Geschenke! Falls ihr uns gerne ein Geschenk machen wollt, haben wir hier eine Liste mit Dingen, die uns Freude bereiten würden, zusammen gestellt.
 Alternativ könnt ihr uns natürlich auch ein Hundewelpen nach Frankreich mitbringen. Es würde sich in der Schweiz sicher wohl fühlen.
 
 [Wunschliste](https://davidetheresa.zankyou.com/de/hochzeitsgeschenke/hochzeitsliste){: .btn .btn--info}
+
+Passwort: DavidETheresa230722
 
 
 
