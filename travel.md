@@ -13,7 +13,7 @@ As we all want you to stay safe, there is also the contact number for two taxi c
 
 --
 
-Am Einfachsten erreicht man die [Domain de Toury](_location/domaine.md) per Auto. Für alle, die kein Auto besitzen, gibt es hier ein paar nützliche Infos um die Anreise zu organisieren.
+Am Einfachsten erreicht man die [Domaine de Toury](_location/domaine.md) per Auto. Für alle, die kein Auto besitzen, gibt es hier ein paar nützliche Infos um die Anreise zu organisieren.
 Ihr könnt uns auch gerne kontaktieren um eventuell Mitfahrgelegenheiten zu organisieren. 
 
 --
