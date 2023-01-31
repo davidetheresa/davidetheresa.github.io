@@ -2,9 +2,9 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "DavidETheresa"
-description: "We're getting married! Nous nous marions! Wir heiraten!"
+description: "Thank you! Merci! Danke!"
 url: "https://davidetheresa.github.io"
-logo: "/assets/images/logo.jpg"
+logo: "/assets/images/kiss.jpg"
 
 google_fonts:
   - name: "Source Sans Pro"
@@ -40,6 +40,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  pictures:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -63,8 +66,14 @@ defaults:
         layout: post
 
   - scope:
-      path: _rsvp
+      path: "_rsvp"
       type: rsvp
+    values:
+      layout: post
+
+  - scope:
+      path: "_pictures"
+      type: pictures
     values:
       layout: post
 
