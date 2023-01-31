@@ -5,7 +5,7 @@ title: "Davide & Theresa"
 # 23 July - Juillet - Juli 2022
 ### Toury-sur-Jour, Nièvre, France
 
-[Pictures](rsvp.md){: .btn .btn--info}
+[Pictures](pictures.md){: .btn .btn--info}
 
 A big, big thank you for having spent this special day with us.
 We could not have imagined a day more wonderful and joyful to celebrate our wedding and sincerely hope that you as well will keep some nice memories. 
