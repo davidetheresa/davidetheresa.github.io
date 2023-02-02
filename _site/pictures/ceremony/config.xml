@@ -2,7 +2,7 @@
 
 <juiceboxgallery 
 
-	galleryTitle="Ceremony"
+	galleryTitle=""
 	backgroundColor="rgba(255,255,255,1)"
 	textColor="rgba(255,255,255,0)"
 	thumbFrameColor="rgba(255,255,255,.3)"

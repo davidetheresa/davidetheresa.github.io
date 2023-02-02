@@ -6,3 +6,4 @@ entries_layout: grid
 show_excerpt: False
 permalink: /pictures
 ---
+  
