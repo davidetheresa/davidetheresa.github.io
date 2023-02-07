@@ -3,7 +3,6 @@ title: Pictures - Photos - Fotos
 layout: collection
 collection: pictures
 entries_layout: grid
-show_excerpt: False
-permalink: /pictures
+show_excerpt: false
 ---
-  
+

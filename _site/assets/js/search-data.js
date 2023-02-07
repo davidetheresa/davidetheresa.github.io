@@ -24,18 +24,18 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/location/program/"
       },{
-        "title": "Ceremony - Cérémonie - Zeremonie",
-        "excerpt":"","categories": [],
+        "title": "Ceremony",
+        "excerpt":"Pictures from our ceremony","categories": [],
         "tags": [],
         "url": "http://localhost:4000/pictures/ceremony"
       },{
-        "title": "Dinner - Dîner - Abendessen",
-        "excerpt":"","categories": [],
+        "title": "Dinner",
+        "excerpt":"Pictures of dinner and brunch","categories": [],
         "tags": [],
         "url": "http://localhost:4000/pictures/dinner"
       },{
-        "title": "Reception - Réception - Feier",
-        "excerpt":"","categories": [],
+        "title": "Reception",
+        "excerpt":"Pictures of the reception","categories": [],
         "tags": [],
         "url": "http://localhost:4000/pictures/reception"
       },{

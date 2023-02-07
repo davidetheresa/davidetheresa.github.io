@@ -41,8 +41,12 @@ collections:
     permalink: /:collection/:path/
 
   pictures:
-    output: true
+    output: false
     permalink: /:collection/:path/
+    order:
+      - ceremony.html
+      - reception.html
+      - dinner.html
 
 # Front Matter Defaults
 defaults:
