@@ -18,7 +18,7 @@ Wir hoffen sehr, dass auch ihr solch schöne Erinnerungen an unsere Hochzeit beh
 
 --
 
-Merci...
+Un grand merci...
 
 
 
