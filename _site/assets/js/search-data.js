@@ -25,7 +25,7 @@ var store = [{
         "url": "http://localhost:4000/location/program/"
       },{
         "title": "Ceremony",
-        "excerpt":"Pictures from our ceremony","categories": [],
+        "excerpt":"Pictures of our ceremony","categories": [],
         "tags": [],
         "url": "http://localhost:4000/pictures/ceremony"
       },{

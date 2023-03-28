@@ -6,6 +6,6 @@ layout: page
 </center>
 
 
-<div class="entries-{{ page.entries_layout | default: 'grid' | sort: 'order'}}">
+<div class="entries-{{ page.entries_layout | default: 'grid'}}">
     {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order %}
 </div>
